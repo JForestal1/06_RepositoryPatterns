@@ -16,6 +16,7 @@ namespace _06_RepositoryPattern_Console
         {
             Menu();
             //* meaningless change to test git push
+            //* another meaningless change for git
         }
 
         //Menu
